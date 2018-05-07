@@ -1,0 +1,2 @@
+# Universal BASH script template
+
